@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "base_track": "In The Sky",
+  "base_artist": "Charlu",
+  "createdAt": "2026-03-17T11:39:39.786876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eye in the Sky",
+      "artist": "The Alan Parsons Project",
+      "has_synced": true,
+      "path": "select/01_Eye_in_the_Sky_The_Alan_Parsons_Project.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spirit In The Sky",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/02_Spirit_In_The_Sky_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Ghost) Riders In the Sky (Live)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/03_(Ghost)_Riders_In_the_Sky_(Live)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(Ghost) Riders In the Sky (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/04_(Ghost)_Riders_In_the_Sky_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Ghost) Riders in the Sky",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/05_(Ghost)_Riders_in_the_Sky_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Great Gig In The Sky",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/06_The_Great_Gig_In_The_Sky_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Up In the Sky",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/07_Up_In_the_Sky_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Traffic In The Sky",
+      "artist": "PA Mack",
+      "has_synced": false,
+      "path": "select/08_Traffic_In_The_Sky_PA_Mack.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Traffic In The Sky",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/09_Traffic_In_The_Sky_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Holes In the Sky",
+      "artist": "M83 feat. HAIM",
+      "has_synced": true,
+      "path": "select/10_Holes_In_the_Sky_M83_feat._HAIM.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Holes in the Sky (with HAIM)",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/11_Holes_in_the_Sky_(with_HAIM)_M83.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Small Black Flowers That Grow In The Sky",
+      "artist": "Manic Street Preachers",
+      "has_synced": true,
+      "path": "select/12_Small_Black_Flowers_That_Grow_In_The_Sky_Manic_Street_Preachers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Voices In the Sky",
+      "artist": "The Moody Blues",
+      "has_synced": true,
+      "path": "select/13_Voices_In_the_Sky_The_Moody_Blues.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(Ghost) Riders in the Sky",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/14_(Ghost)_Riders_in_the_Sky_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lights In the Sky",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/15_Lights_In_the_Sky_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Up in the Sky - Acoustic",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/16_Up_in_the_Sky_-_Acoustic_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Up In The Sky (Acoustic)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/17_Up_In_The_Sky_(Acoustic)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Up in the Sky (Acoustic)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/18_Up_in_the_Sky_(Acoustic)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bones in the Ocean",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/19_Bones_in_the_Ocean_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\") [feat. Damhnait Doyle]",
+      "artist": "Keith Power feat. Alan Doyle",
+      "has_synced": true,
+      "path": "select/20_Sleeping_in_the_Cold_Below_(From__Warframe_)_[feat._Damhnait_Doyle]_Keith_Power_feat._Alan_Doyle.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\")",
+      "artist": "Keith Power",
+      "has_synced": true,
+      "path": "select/21_Sleeping_in_the_Cold_Below_(From__Warframe_)_Keith_Power.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Sugar In The Hold",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/22_Sugar_In_The_Hold_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "The Bard's Song - In The Forest",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/23_The_Bard's_Song_-_In_The_Forest_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Breaking Up Was Easy In The 90's",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/24_Breaking_Up_Was_Easy_In_The_90's_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Breaking Up Was Easy In The 90's",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/25_Breaking_Up_Was_Easy_In_The_90's_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Dancin' In the Moonlight",
+      "artist": "Chris Lane feat. Lauren Alaina",
+      "has_synced": true,
+      "path": "select/26_Dancin'_In_the_Moonlight_Chris_Lane_feat._Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Dancin' In The Moonlight (feat. Lauren Alaina)",
+      "artist": "Chris Lane",
+      "has_synced": true,
+      "path": "select/27_Dancin'_In_The_Moonlight_(feat._Lauren_Alaina)_Chris_Lane.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Dancing In the Moonlight",
+      "artist": "Jubël feat. NEIMY",
+      "has_synced": true,
+      "path": "select/28_Dancing_In_the_Moonlight_Jubël_feat._NEIMY.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Fish In The Sea",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/29_Fish_In_The_Sea_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "In The Army Now",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/30_In_The_Army_Now_Status_Quo.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "In the Air Tonight - 2015 Remaster",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/31_In_the_Air_Tonight_-_2015_Remaster_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Iris in the Dark",
+      "artist": "Just A Gent feat. McCall",
+      "has_synced": true,
+      "path": "select/32_Iris_in_the_Dark_Just_A_Gent_feat._McCall.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Iris in the Dark",
+      "artist": "Just a Gent, McCall",
+      "has_synced": true,
+      "path": "select/33_Iris_in_the_Dark_Just_a_Gent,_McCall.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "It's Hard to Be a Saint in the City",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/34_It's_Hard_to_Be_a_Saint_in_the_City_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Made in the USA",
+      "artist": "Clayton Anderson",
+      "has_synced": true,
+      "path": "select/35_Made_in_the_USA_Clayton_Anderson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "In The Sky",
+      "artist": "Charlu",
+      "has_synced": false,
+      "path": "select/pl_01_In_The_Sky_Charlu.txt"
+    }
+  ]
+}
